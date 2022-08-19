@@ -1,3 +1,11 @@
-# Javascript-ToDo-List
+![](https://github.com/ritik8262/Javascript-ToDo-List-/blob/main/ToDo%20List.png)
 
-ToDo List web Application is made using javascript and deployed on localhost.
+# **ToDo List**
+
+---
+
+## JavaScript based web application
+
+---
+
+In this website you cam add your plans and after compeletion you can delete them too.
